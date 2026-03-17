@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RobloxClone",
+  "description": "A functional Roblox UI clone with 3D avatar visualization, authentication simulation, and responsive dashboard design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
